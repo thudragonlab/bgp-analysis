@@ -1,6 +1,6 @@
-# About bgp analysis
+# About bgp-analysis
 
-bgp analysis collects daily RIB files from all RIPE RIS, RouteViews and cgtf collectors and performs various approaches to get different types of statistics.
+The bgp-analysis module of BGPWatch collects daily RIB files from all RIPE RIS, RouteViews and cgtf collectors and performs various approaches to get different types of statistics.
 
 ## Data Storing
 
